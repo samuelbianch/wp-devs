@@ -1,0 +1,21 @@
+/*
+Theme Name: WP Devs
+Theme URI: https://github.com/samuelbianch/wp-devs
+Author: Samuel Bianch
+Author URI: https://linkedin.com/in/samuelbianch
+Description: Build a theme for wordpress studies
+Tested up to: 6.5
+Requires PHP: 5.6
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wp-devs
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, style-variations, wide-blocks, block-styles, accessibility-ready, blog, portfolio, news
+
+wp-devs is distributed under the terms of the GNU GPL.
+*/
+
+.top-bar {
+    background: black;
+    height: 70px;
+}
